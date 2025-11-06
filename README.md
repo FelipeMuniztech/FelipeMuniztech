@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Contato
-📧 **felipemunuz@gmail.com**  
+📧 **felipemuniz123r@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/felipe-muniz-felix-da-costa-7955012aa) 
 
 ---
