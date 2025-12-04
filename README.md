@@ -3,7 +3,7 @@
 
 💻 Estudante de Ciência da Computação
 🧩 Estagiário de Suporte Técnico na PSA Tech
-☕ Estudando **Java**, explorando o mundo do **Back-End**
+☕ Estudando **Java** e **Dados** , explorando o mundo do **Back-End**
 🚀 Apaixonado por tecnologia e inovação
 
 ---
